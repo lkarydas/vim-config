@@ -26,5 +26,5 @@ git clone https://github.com/tpope/vim-sensible.git
 git clone https://github.com/ntpeters/vim-better-whitespace.git
 git clone https://github.com/uarun/vim-protobuf.git
 git clone https://github.com/elzr/vim-json.git
-git clone git://github.com/altercation/vim-colors-solarized.git
+git clone https://github.com/morhetz/gruvbox.git
 ```

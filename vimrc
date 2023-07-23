@@ -31,4 +31,5 @@ au BufNewFile,BufRead *.py
 let python_highlight_all=1
 syntax on
 
-colorscheme zenburn
+set background=dark
+colorscheme gruvbox
