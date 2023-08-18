@@ -7,7 +7,7 @@ Clone the repo and create symbolic link for `.vimrc`.
 
 ```console
 mkdir -p ~/src && cd ~/src
-git clone git@github.com:lkarydas/vim-config.git
+git clone https://github.com/lkarydas/vim-config.git
 ln -sf ~/src/vim-config/vimrc ~/.vimrc
 ```
 
