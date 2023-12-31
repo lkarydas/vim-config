@@ -27,4 +27,5 @@ git clone https://github.com/ntpeters/vim-better-whitespace.git
 git clone https://github.com/uarun/vim-protobuf.git
 git clone https://github.com/elzr/vim-json.git
 git clone https://github.com/morhetz/gruvbox.git
+git clone https://github.com/tpope/vim-commentary.git
 ```
