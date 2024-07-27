@@ -18,6 +18,7 @@ set showmatch       " Highlight matching [{()}].
 set noshowmode      " We show the mode using lightline.
 set incsearch       " Search as characters are entered.
 set hlsearch        " Highlight matches.
+set cursorline      " Highlight cursor line.
 
 au BufNewFile,BufRead *.py
     \ set tabstop=2 |
